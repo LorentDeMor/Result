@@ -1,0 +1,16 @@
+body {
+    background-color: aliceblue;
+}
+
+.centr {
+    text-align: center;
+}
+
+.cont{
+    width: 80%;
+    margin: auto;
+}
+
+.but {
+    margin-top: 15px;
+}
